@@ -1,0 +1,21 @@
+# Animals
+
+- Zoo Animals
+  - Herbivores
+    - Zebra
+    - Gazelle
+  - Omnivores
+    - Gorilla
+    - Baboon
+    - Chimpanzee
+  - Carnivores
+    - Tiger
+    - Lion
+- Domestic Animals
+  - Felines
+    - Tabby
+    - Bengal
+    - Siamese
+  - Canines
+    - German Shepherd
+    - Cocker Spaniel
