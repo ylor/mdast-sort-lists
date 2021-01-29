@@ -46,7 +46,7 @@ Markdown input:
     - Cocker Spaniel
 ```
 
-Markdown input:
+Markdown output:
 
 ```
 # Animals
