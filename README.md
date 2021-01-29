@@ -1,6 +1,6 @@
 # mdast-sort-lists
 
-Transforms a **M**ark**d**own **A**bstract **S**yntax **T**ree. ([mdast](https://github.com/syntax-tree/mdast)) so that listItem are naturally alphabetized. Mutates the input AST.
+Transforms a Markdown Abstract Syntax Tree ([mdast](https://github.com/syntax-tree/mdast)) so that list items are naturally alphabetized. Mutates the input AST.
 
 ## Installation
 

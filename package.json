@@ -1,6 +1,7 @@
 {
   "name": "mdast-sort-lists",
-  "version": "1.0.0",
+  "version": "1.0.3",
+  "description": "Transforms a Markdown Abstract Syntax Tree (mdast) so that list items are naturally sorted.",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
