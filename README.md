@@ -11,9 +11,12 @@ npm install mdast-sort-lists
 ## Usage
 
 ```js
+const fs = require("fs");
 const remarkParse = require("remark-parse");
 const remarkStringify = require("remark-stringify");
 const sortLists = require("mdast-sort-lists");
+
+const doc = fs.readFileSync("test/unsorted.md")
 
 const tree = unified().use(remarkParse).parse(doc);
 sortLists(tree);
